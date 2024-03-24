@@ -8,11 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Result-oriented%20Software%20Engineer;10%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45">
 </p>
 
-
-<p align="center">
-    With a diverse skill set that includes .NET, Golang, Rust, Python, Java, PHP, Node.js, Ruby, C#, ASP Net, and Unity, I have honed my ability to design and implement robust server-side solutions. I excel in developing efficient and scalable code using various frameworks and technologies, such as Active-Web, Django, Spring, Laravel, MERN, and Rails.
-</p>
-
 <h3>🏆 Github Profile Trophy</h3>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=michaelbranddev&column=7&theme=onedark"/>
