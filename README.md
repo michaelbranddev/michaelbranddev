@@ -21,8 +21,8 @@
 - 🎉 Frontend : React / Next.js, Vue.js / Nuxt.js, Angular, Redux / Context, Hooks, Styled components, AntDesign, Material UI, Tailwind CSS / SASS / SCSS, GraphQL, React Native, ESLint, TSLint, Ajax, jQuery, Bootstrap, UI / UX, Webpack
 - 🩺 Backend : Django / Flask / FastAPI, Django REST framework, Node.js / Express.js / Nest.js, Laravel, Spring Boot, RESTful API, DevOps, Docker / Microservice architecture, CI / CD
 - 🧩 Database : MySQL, PostgreSQL, MongoDB, SQLite, Firebase
-- ⛓️ Blockchain : Solidity, Rust, Smart contract, Web3 / Ethers.js, NFT Marketplace / Auction, Launchpad / DAO / ICO / IDO platforms, CEX / DEX / Defi, Crypto wallets / Trading Apps
-- 💬 Language : C, C++, C#, Python, PHP, Solidity, Rust, HTML, CSS, Javascript, Typescript
+- ⛓️ Blockchain : Solidity, Smart contract, Web3 / Ethers.js, NFT Marketplace / Auction, Launchpad / DAO / ICO / IDO platforms, CEX / DEX / Defi, Crypto wallets / Trading Apps
+- 💬 Language : C, C++, C#, Python, PHP, Solidity, HTML, CSS, Javascript, Typescript
 - 📫 Interesting : Badminton, Swimming, AI/ML, Tennis
 
 
